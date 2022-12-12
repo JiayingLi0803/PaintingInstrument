@@ -4,5 +4,5 @@ The musical painting software allows people to draw and generate the correspondi
 A GUI of the musical painting software is shown in the figure below.
 
 <p align="center">
-<img src="Image/GUI.png" width="1000">
+<img src="Image/GUI.png" width="800">
 </p>
